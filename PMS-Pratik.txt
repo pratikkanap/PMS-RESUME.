@@ -1,136 +1,167 @@
 PERSONAL INFORMATION
 
-1. NAME : AS PER EDUCATIONAL DOCUMENTS AND IN ALL LETTERS IN CAPITALS
-KANAP PRATIK POPAT
+1. NAME : KANAP PRATIK POPAT
 
-2. PRIMARY EMAIL : GMAIL ID WITH YOUR PROPER NAME(NO FANCY EMAIL ID'S)
-kanappratik@gmail.com
+2. PRIMARY EMAIL : kanappratik@gmail.com
 
-3. SEC EMAIL : GMAIL ID WITH YOUR PROPER NAME (NO FANCY EMAIL ID'S)
-kanappratik7@gmail.com
+3. SEC EMAIL : kanappratik7@gmail.com
 
 4. CCPP ID : WILL BE ALOTED AFTER CCEE RESULTS
 
-
-5. DOB : CHECK YOUR DATE OF BIRTH
-02/08/2002
+5. DOB : 02/08/2002
 
 6. CORRE. ADDRESS: CURRENT ADDRESS OF YOUR PG/HOSTEL WITH PIN CODE
 
+7. PERMANENT ADD: 39/A, SR No - 57/1/2 LANE 2, SHIV SHAMBO PARK, PATHARE WASTI, LOHEGOAN, PUNE-411047
 
-7. PERMANENT ADD: YOUR LOCAL ADDRESS AS PER AADHAR / PARENT ADDRESS
+8. NATIONALITY : INDIAN
 
-8. NATIONALITY : AS PER YOUR AADHAR 
-INDIAN
+9. GENDER : MALE
 
-9. GENDER : CHECK YOUR GENDER
-MALE
-10. EXTRA CURR ACTIVITIES : SPORTS/ARTS ETC
+10. EXTRA CURR ACTIVITIES : CRICKET
 
-11. LANGUAGES : ENGLISH, HINDI, MARATHI/ANY OTHER LANG.
-ENGLISH,MARATHI,HINDI
+11. LANGUAGES : ENGLISH, MARATHI, HINDI
+
+Skype ID -> live:.cid.aef2badbcf92a0b6
+
+--------------------------------------------------------------------------------------------------------------
 
 ACADEMIC DETAILS:
-1. 10TH /12TH : 10th
+
+1. 10TH 
+
 2.SPECIALIZATION : GENERAL
+
 3. INSTITUTE: kendriya Vidyalaya (B.E.G) yerawada, pune
-4. BOARD : CBS
-5. GRADE : I/II/ETC
-6. OBTAINED MARKS : 343
-7. TOTAL MARKS:500
-8. YEAR OF PASSING : YEAR MENTIONED ON YOUR MARKSHEET (DATE OF RESULT DECLARATION)
-06/05/2019
 
-1. 10TH /12TH : 12th
+4. BOARD : CBSE
+
+5. GRADE : I, 68% = Grade 2 (B grade)
+
+6. OBTAINED MARKS : 343
+
+7. TOTAL MARKS:500
+
+8. YEAR OF PASSING : 06/05/2019
+
+--------------------------------------------------------------------------------------------------------------
+1. 12th
+
 2.SPECIALIZATION : GENERAL
 
-3. INSTITUTE: NAME OF SCHOOL
-kendriya Vidyalaya (B.E.G) yerawada, pune
+3. INSTITUTE: kendriya Vidyalaya (B.E.G) yerawada, pune
 
-4. BOARD : SSC/HSC/CBCE/ICSE
-CBSE
+4. BOARD : CBSE
 
-5. GRADE : I/II/ETC
+5. GRADE : I, Your percentage (64%) = Grade 2 (B grade)
+
 6. OBTAINED MARKS :322
-7. TOTAL MARKS:500
-8. YEAR OF PASSING : YEAR MENTIONED ON YOUR MARKSHEET (DATE OF RESULT DECLARATION)
-30/07/2021
 
+7. TOTAL MARKS:500
+
+8. YEAR OF PASSING : 30/07/2021
+
+-------------------------------------------------------------------------------------------------------------
 
 GRADUATION DETAILS
-1. DIPLOMA/GRADUATION/POST GRADUATION
 
-GRADUATION 
+1. GRADUATION 
 
-2. STREAM :ENG/MANAGEMENT
+2. STREAM :ENG
 
-Engeering
-
-3. QUALIFICATION: eg. DCE -Diploma in Comp Eng (Ref to your Diploma/degree certificate)
-BTech in computer science and engineering
+3. QUALIFICATION: B.Tech 
 
 4. SPECIALIZATION: Computer science and engineering
 
-5. UNIVERSITY : CHECK YOUR UNIVERSITY NAME IN DROP DOWN/ OTHER - FILL UNIVERSITY NAME IF NOT IN THE LIST
+5. UNIVERSITY : Shivaji university
 
-Shivaji university
+6. BACKLOGS : 0
 
-6. BACKLOGS : IF BACKLOG IS CLEARED IN SAME ACADEMIC YEAR COUNT IT AS 1 BACKLOG, IF CARRY FORWARD TO NEXT 
----0
-ACADEMIC YEAR THEN COUNT 1 MORE ADDITIONAL
+7. NO OF ATTEMPTS : 1
 
-7. NO OF ATTEMPTS : IF 3 YEARS DIPLOMA/4 YEARS DEGREE DONE IN SAME TIME FRAME ATTEMPT IS 1
-IF TAKEN MORE THAN THAT COUNT ACCORDINGLY
----1
-8. GRADE/DIVISION : REF. TO YOUR DIP/DEGREE CERTIFICATE
-Grade A
+8. GRADE/DIVISION : Grade A  --- 1
 
-9.COURSE DURATION: 3/4 YEARS
-4 years
+9.COURSE DURATION: 4 YEARS
 
-10. YEAR OF ADMISSION: REF. YOUR 1ST YEAR MARKSHEET
-2021
+10. YEAR OF ADMISSION: 20/12/2021
 
-11. YEAR OF PASSING : REF. YOUR LAST SEM MARKSHEET (DATE OF RESULT)
-16/6/2025
+11. YEAR OF PASSING : 16/6/2025
 
 12. ENTER MARKS : EITHER SEM / YEAR TOTAL MARKS AND OBTAINED MARKS
 
-first sem : 551/800
-second sem :581/800
-third sem :493/800
-fourth sem :493/800
-fifth sem :507/800
-sixth sem :530/800
-seventh sem : 573/800
-eighth sem : 637/800
-Note: Please convert your CGPA or Grading to marks according to respective university formulae.
+1st sem : 551/800
 
+2nd sem :581/800
+
+3rd sem :493/800
+
+4th sem :493/800
+
+5th sem :507/800
+
+6th sem :530/800
+
+7th sem : 573/800
+
+8th sem : 637/800
+
+------------------------------------------------------------------------------------------------------------
 ACADEMIC PROJECTS:
-1. SELECT QUALIFICATION: PG DAC / COLLEGE PROJECT
-2. DURATION : 1 MONTH FOR PG DAC 
-3. GIT REPOSITORY : LINK MANDATORY
-4. PROJECT DESCRIPTION : SHORT DESCRIPTION INCLUDING PROBLEM STATEMENT. OBJECTIVE, TECHNOLOGIES USED, FUTURE SCOPE OF THE PROJECT
-5. PROJECT TITLE : SHORT NAME FOR YOUR PROJECT
-6. PLATFORM USED : EXPECTED TO WRITE EACH TECHNOLOGY TAUGHT AND USED LIKE MS DOT NET/JAVA/JAVA SCRIPT, HTML, CSS, MY SQL/MS SQL, TESTING TOOL USED, GIT, AWS/AZURE, ETC
 
+SELECT QUALIFICATION: COLLEGE PROJECT
+
+2. DURATION : 6 MONTH 
+
+3. GIT REPOSITORY : https://github.com/pratikkanap/Academix
+
+4. PROJECT DESCRIPTION : Built a full-stack system to track and analyze student attendance and performance. 
+, Implemented role-based dashboards and automated alerts for defaulters, Integrated REST APIs with MongoDB backend and React.js frontend. 
+
+5. PROJECT TITLE : Academix
+
+6. PLATFORM USED :  React.js, Node.js, Express.js, MongoDB 
+
+--------------------------------------------------------------------------------------------------------------
+
+SELECT QUALIFICATION: PG DAC
+
+2. DURATION : 1 MONTH 
+
+3. GIT REPOSITORY : https://github.com/
+
+4. PROJECT DESCRIPTION : Developed a .NET-based Fitness Tracker & Diet Planning application with modules for workout scheduling, calorie tracking, progress analytics, and user profile management. Built interactive charts for weight trends and performance insights. Implemented role-based access, admin dashboard, and SQL-backed data storage using Entity Framework.
+
+5. PROJECT TITLE : NutriFit
+
+6. PLATFORM USED : MS DOT NET, JAVA, HTML, CSS, MY SQL, GIT, AWS
+
+-------------------------------------------------------------------------------------------------------------
 WORK EXP:
+
 1.DESIGNATION : INTERN
+
 2.ORGANIZATION: Technocipher IT solutions
-3. FROM DATE : DATE OF OFFER/JOINING
-10/1/2025
-4.TO DATE : DATE OF RELEIVING / LAST DATE OF WORKING 
-5/7/2025
+
+3. FROM DATE : 10/1/2025
+
+4.TO DATE : 5/7/2025
+
 5. NATURE OF WORK : TYPE OF DUTIES
 
 OTHER INFORMATION:
-1. AADHAR NUMBER : COMPULSORY (CARRY AADHAR CARD)
-489886145094
+
+1. AADHAR NUMBER : 489886145094
 
 2. PASSPORT NO. : 
-3. RELIGION : Hindu
-4. CAST ; Dhangar
+
+3. RELIGION : HINDU
+
+4. CAST : DHANGAR
+
 5. TECHNICAL CERTIFICATION: ANY COURSE CERTIFICATION AWARDED (CCAT IS NOT TECHNICAL CERTIFICATE)
+
 6. TRAININGS : APART FROM ANY TECHNICAL TRAIININGS
-7.EXTRA CURRICULAR : SPROTS/ARTS
-8. HOBBIES : listening Music,Watching F1
+
+7.EXTRA CURRICULAR : CRICKET
+
+8. HOBBIES : listening Music,Watching F1,Playing Cricket.
