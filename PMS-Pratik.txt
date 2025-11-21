@@ -114,8 +114,9 @@ SELECT QUALIFICATION: COLLEGE PROJECT
 
 3. GIT REPOSITORY : https://github.com/pratikkanap/Academix
 
-4. PROJECT DESCRIPTION : Built a full-stack system to track and analyze student attendance and performance. 
-, Implemented role-based dashboards and automated alerts for defaulters, Integrated REST APIs with MongoDB backend and React.js frontend. 
+4. PROJECT DESCRIPTION :
+
+Built a full-stack system with role-based dashboards to track and analyze student attendance and performance. It features automated alerts for defaulters and integrates REST APIs with a Node.js/Express backend and MongoDB database. The responsive React.js frontend provides real-time analytics and a seamless user experience.Future enhancements include predictive analytics to identify at-risk students early, cloud integration for enhanced scalability and security, mobile app support for remote access, and advanced role-based permissions. 
 
 5. PROJECT TITLE : Academix
 
@@ -127,7 +128,7 @@ SELECT QUALIFICATION: PG DAC
 
 2. DURATION : 1 MONTH 
 
-3. GIT REPOSITORY : https://github.com/
+3. GIT REPOSITORY : https://github.com/harode12/NutriFit.git
 
 4. PROJECT DESCRIPTION : Developed a .NET-based Fitness Tracker & Diet Planning application with modules for workout scheduling, calorie tracking, progress analytics, and user profile management. Built interactive charts for weight trends and performance insights. Implemented role-based access, admin dashboard, and SQL-backed data storage using Entity Framework.
 
@@ -136,17 +137,6 @@ SELECT QUALIFICATION: PG DAC
 6. PLATFORM USED : MS DOT NET, JAVA, HTML, CSS, MY SQL, GIT, AWS
 
 -------------------------------------------------------------------------------------------------------------
-WORK EXP:
-
-1.DESIGNATION : INTERN
-
-2.ORGANIZATION: Technocipher IT solutions
-
-3. FROM DATE : 10/1/2025
-
-4.TO DATE : 5/7/2025
-
-5. NATURE OF WORK : TYPE OF DUTIES
 
 OTHER INFORMATION:
 
@@ -164,4 +154,17 @@ OTHER INFORMATION:
 
 7.EXTRA CURRICULAR : CRICKET
 
-8. HOBBIES : listening Music,Watching F1,Playing Cricket.
+8. HOBBIES : listening Music, Playing Cricket.
+
+--------------------------------------------------------------------------------------------------------------TRAINING :
+
+1.DESIGNATION : INTERN
+
+2.ORGANIZATION: Technocipher IT solutions
+
+3. FROM DATE : 10/1/2025
+
+4.TO DATE : 5/7/2025
+
+5. NATURE OF WORK : TYPE OF DUTIES
+ 
